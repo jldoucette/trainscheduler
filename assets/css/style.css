@@ -1,0 +1,37 @@
+.jumbotron {
+	background-image:url("../images/train.png");
+	color:yellow;
+}
+#title {
+	background-color:dodgerblue;
+	text-align:center;
+}
+input {
+	width:100%;
+}
+#add-employee {
+	width:40%;
+	margin:5px;
+	top-margin:10px;
+}
+#current-time {
+	text-align: center;
+}
+
+.updateButton {
+	text-align:right;
+}
+body {
+	background-image:url("../images/backgroundwall.jpg");
+}
+
+.panel-body {
+	background-image:url("../images/panelbackground.jpg");
+}
+#timeRefresh {
+	float:right;
+	align-content:right;
+}
+.panel-heading {
+	font-size:150%;
+}
